@@ -1,2 +1,3 @@
 exclude_directory/
 *.log
+week_1_basics_n_setup/2_docker_sql/data_pgadmin/pgadmin4.db
